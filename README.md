@@ -49,6 +49,8 @@ nodes_cords = {
 
 ## OUTPUT:
 
+![Maze Flood Algorithm output](https://raw.githubusercontent.com/mnmnc/img/master/MazeFlood.jpg)
+
 ```python
 Searching path via [] --> C
         [ ] Node value: 6.0
